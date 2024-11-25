@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="not_solve">Not solve</string>
+    <string name="textview">TextView</string>
+    <string name="solve">Solve</string>
+    <string name="a">Enter A</string>
+    <string name="b">Enter B</string>
+    <string name="c">Enter C</string>
+</resources>
